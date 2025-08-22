@@ -20,6 +20,9 @@ Open [http://localhost:3001](http://localhost:3001) with your browser to see the
 
 ## API CRUD
 CREATE : http://localhost:3001 Method POST
+
 READ : http://localhost:3001 Method GET
+
 UPDATE : http://localhost:3001/:id Method PUT
+
 DELETE : http://localhost:3001/:id Method DELETE
